@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Systematic Wonder]]></title>
         <description><![CDATA[Systematic Wonder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/systematic-wonder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 00:11:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 00:12:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/systematic-wonder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf0f407-37ef-44ae-93eb-bc8f611e747f.jpg">]]></description>
+            <link>https://thegrid.ai/systematic-wonder/368abda6-be55-425a-8a6d-2d7991d558fe/index.html</link>
+            <guid isPermaLink="false">368abda6-be55-425a-8a6d-2d7991d558fe</guid>
+            <pubDate>Sat, 09 Jan 2016 00:12:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Albert Einstein</p>]]></description>
-            <link>undefinedbd3d49b9-22a0-48c7-97a7-9504cd11316e/index.html</link>
+            <link>https://thegrid.ai/systematic-wonder/bd3d49b9-22a0-48c7-97a7-9504cd11316e/index.html</link>
             <guid isPermaLink="false">bd3d49b9-22a0-48c7-97a7-9504cd11316e</guid>
             <pubDate>Sat, 09 Jan 2016 00:11:52 GMT</pubDate>
         </item>
